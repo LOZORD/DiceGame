@@ -1,0 +1,31 @@
+HOW LEO'S DICE GAME WORKS
+
+With an odd/3-sided die:
+Both players roll
+A beats B
+B beats C
+C beats A
+...
+
+For every round of rolling a player comes out victorious, gaining 1 point 
+OR 
+Both players gain nothing (equal roll)
+
+If a player is X amount of points separate the players:
+betting can take place to even the odds
+-or boost someone even farther
+
+The first player to get to Y (probably 21) wins
+HOWEVER
+if farther player doesn't get to 21 exactly (due to a successful bet)
+they are reversed in the other direction, and begin losing points (back to zero)
+GETTING TO 0 BECOMES THE NEW GOAL FOR THAT PLAYER
+(winning a round produces negative points--a good thing for the reverse player)
+Zero can be "jumped over/through" unlike 21 (by winning a bet)
+
+If the reverse player gets to zero before the other player STILL
+The reversed player wins
+
+
+
+
